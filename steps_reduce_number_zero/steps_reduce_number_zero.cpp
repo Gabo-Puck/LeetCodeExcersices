@@ -1,4 +1,6 @@
 #include <iostream>
+// By MelkorGodo / Gabo-Puck
+// 26-02-2023
 int numberOfSteps(int num)
 {
     int steps = 0;

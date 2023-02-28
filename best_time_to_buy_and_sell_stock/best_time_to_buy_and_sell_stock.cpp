@@ -1,7 +1,8 @@
 #include <iostream>
 #include <vector>
 #include <stack>
-
+// By MelkorGodo / Gabo-Puck
+// 27-02-2023
 int maxProfit(std::vector<int> &prices)
 {
     std::vector<int>::iterator it = prices.begin();
